@@ -1,7 +1,7 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
+		"host": "cuis.aternos.host:54823",
+		"port": "54823",
 		"username": "Please enter the bot's username you want"
 	},
 	
